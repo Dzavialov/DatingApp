@@ -37,7 +37,6 @@ export class MemberListComponent implements OnInit{
         }
       })
     }
-
   }
 
   resetFilters() {
